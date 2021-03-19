@@ -1,4 +1,4 @@
-FOR( $true & $FALSE){}-var> VARCHAR do&=>
+FOR( $true & $FALSE){const}-(50)var> VARCHAR do&=>
 
 ({CType\Add-CType:["TrustedHosts"]while({${true}});
 
